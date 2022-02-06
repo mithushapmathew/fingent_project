@@ -1,0 +1,24 @@
+[28-Aug-2017 10:28:44 UTC] PHP Fatal error:  Call to a member function file_upload() on null in /home/ugo123/opterna.testugo.in/Opterna/application/modules/products/controllers/Products.php on line 46
+[28-Aug-2017 10:29:52 UTC] PHP Fatal error:  Call to a member function file_upload() on null in /home/ugo123/opterna.testugo.in/Opterna/application/modules/products/controllers/Products.php on line 46
+[14-Sep-2017 08:53:07 UTC] PHP Fatal error:  Call to undefined method Common::image_resize() in /home/ugo123/opterna.testugo.in/Opterna/application/modules/main_category/controllers/Main_category.php on line 183
+[11-Oct-2017 06:01:08 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/ugo123/opterna.testugo.in/Opterna/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[11-Oct-2017 06:01:51 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/ugo123/opterna.testugo.in/Opterna/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[11-Oct-2017 06:02:15 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/ugo123/opterna.testugo.in/Opterna/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[11-Oct-2017 06:02:19 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/ugo123/opterna.testugo.in/Opterna/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[11-Oct-2017 06:02:35 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/ugo123/opterna.testugo.in/Opterna/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[11-Oct-2017 06:03:15 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/ugo123/opterna.testugo.in/Opterna/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[11-Oct-2017 06:04:46 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/ugo123/opterna.testugo.in/Opterna/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[11-Oct-2017 06:05:53 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/ugo123/opterna.testugo.in/Opterna/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[11-Oct-2017 06:07:08 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/ugo123/opterna.testugo.in/Opterna/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[11-Oct-2017 06:07:08 UTC] PHP Fatal error:  Maximum execution time of 90 seconds exceeded in /home/ugo123/opterna.testugo.in/Opterna/system/libraries/Session/drivers/Session_files_driver.php on line 263
+[18-Oct-2017 22:40:47 UTC] PHP Warning:  POST Content-Length of 12871672 bytes exceeds the limit of 8388608 bytes in Unknown on line 0
+[16-Jan-2018 09:46:19 UTC] PHP Fatal error:  Cannot use object of type stdClass as array in /home/ugo123/public_html/Drivers_app/application/controllers/api/Registration.php on line 56
+[14-Mar-2018 09:46:18 UTC] PHP Fatal error:  Call to a member function category_list() on null in /home/ugo123/public_html/Sales_app/application/controllers/api/Catalog.php on line 42
+[14-Mar-2018 09:46:29 UTC] PHP Fatal error:  Call to a member function category_list() on null in /home/ugo123/public_html/Sales_app/application/controllers/api/Catalog.php on line 42
+[04-Apr-2018 07:10:46 UTC] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[04-Apr-2018 07:11:52 UTC] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[04-Apr-2018 07:13:06 UTC] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[04-Apr-2018 07:13:54 UTC] PHP Warning:  Unknown: Input variables exceeded 1000. To increase the limit change max_input_vars in php.ini. in Unknown on line 0
+[07-Apr-2018 11:08:02 UTC] PHP Fatal error:  Call to undefined function set_realpath() in /home/ugo123/public_html/AGL_app/application/controllers/api/Catalog.php on line 282
+[07-Apr-2018 11:09:52 UTC] PHP Fatal error:  Call to undefined function set_realpath() in /home/ugo123/public_html/AGL_app/application/controllers/api/Catalog.php on line 282
+[07-Apr-2018 11:11:15 UTC] PHP Fatal error:  Call to undefined function set_realpath() in /home/ugo123/public_html/AGL_app/application/controllers/api/Catalog.php on line 282
